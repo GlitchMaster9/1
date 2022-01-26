@@ -1,0 +1,160 @@
+Antwoorden op de opdrachten van de Cursus TOPdesk 6 niveau 2
+Opdracht 1a
+Via het TOPdesk-menu kun je ook andere modules benaderen die niet 
+in de snelstartbalk staan: planbord, takenbord, dashbord en onderdelen 
+kiezen.
+Zoeken met behulp van een zoekterm in een module van de databases 
+van TOPdesk
+Met deze knop open je een lijst van kaarten, die je eerder voorzien hebt 
+van een bladwijzer.
+Nieuwe aanmelderkaart openen
+Nieuwe eerstelijnsmelding registreren
+Nieuwe reservering maken met de Reserveringsplanner
+Snelstartbalk samenvouwen
+Snelstartbalk wijzigen
+b Collapse (samenvouwen) Als je kiest voor Collapse, zie je alleen de knoppen zonder omschrijving.
+© Stichting Praktijkleren TOPdesk 6 cursus niv. 2 2/20
+Opdracht 2
+a Als je op Bladwijzers klikt, wordt er een nieuw tabblad getoond met de kaarten waarvoor Paul 
+Middelkoop een bladwijzer heeft gemaakt.
+b Klik je op Home dan komt het startscherm weer in beeld. Het tabblad Bladwijzers blijft open
+staan.
+Opdracht 3
+Bepaal hoeveel eerstelijns- en tweedelijnsmeldingen niet tot het takenpakket van Paul Middelkoop 
+behoren. (NB: getallen kunnen anders zijn als er al meldingen ingevoerd zijn).
+Opdracht 4
+a Eerstelijnsmeldingen waar Paul niet verantwoordelijk voor is (83-18) 65
+b Tweedelijnsmeldingen waar Paul niet verantwoordelijk voor is (22-6) 16
+© Stichting Praktijkleren TOPdesk 6 cursus niv. 2 3/20
+Opdracht 5 Zoekresultaten Objecten
+Opdracht 6
+a
+b Er hangen acht objecten aan C2016.
+c Zelfcontrole van de leerling
+Opdracht 7
+a Zoekopdracht naar alle Personen
+b Er werken in totaal 58 personen.
+c In Antwerpen werken er twee, namelijk Nancy van Elsacker en Jeroen Versloot.
+d In TOPdesk UK werkt Leontine Dekker.
+© Stichting Praktijkleren TOPdesk 6 cursus niv. 2 4/20
+Opdracht 8
+Typ de zoekterm Karel bij voornaam en de zoekterm Directie bij afdeling.
+a Dit directielid is Karel Raven.
+b Karel Raven is de financieel directeur.
+Opdracht 9
+Hardware van Leverancier Dell via Uitgebreid zoeken, alleen de laptops:
+a
+b Schermafdruk zoekopdracht Dell laptops.
+NB:
+Bij zoeken op Leverancier Dell vind je 10 laptops, bij zoeken op Merk Dell vind je er 11. Hier is een 
+discussie over het volledig invoeren van gegevens aan te verbinden.
+© Stichting Praktijkleren TOPdesk 6 cursus niv. 2 5/20
+Opdracht 10
+Klik op de optie Persoon.
+Schermafdruk persoonskaart Jan Velzeboer
+© Stichting Praktijkleren TOPdesk 6 cursus niv. 2 6/20
+Opdracht 11
+Voorbeeld schermafdruk met de gegevens van de leerling
+Opdracht 12
+a Klaagt vaak onterecht.
+b De leerlingen mogen dit zelf invullen (ruimte voor discussie).
+Opdracht 13
+a De Persoonskaart van Jan Velzeboer opzoeken (via de zoekfunctie).
+b Op de Persoonskaart het tabblad Objecten activeren.
+© Stichting Praktijkleren TOPdesk 6 cursus niv. 2 7/20
+c Bij Hardware staat een kopieerapparaat, dat door iedereen op de vestiging van TOPdesk 
+Nederland in Delft gebruikt mag worden. Deze informatie is zichtbaar door te dubbelklikken op 
+de regel.
+d De beamer is aan de vestiging gekoppeld, dus voor iedereen beschikbaar; ook voor Jan.
+Opdracht 14
+a t/m d voorbeeld resultaat na uitvoering opdracht
+e Een nieuwe kaart voor een configuratie wordt geopend en gevuld met de volgende input.
+Configuratienummer: C233
+Korte omschrijving: Configuratie voor programmeur
+Soort: Werkplek
+Vestiging: TOPdesk Nederland
+© Stichting Praktijkleren TOPdesk 6 cursus niv. 2 8/20
+Wordt gebruikt door: Jan Velzeboer
+Opdracht 15
+Nieuwe hardware registreren en toevoegen aan de configuratie C233 van Jan Velzeboer
+a Kies optie Nieuw in het TOPdesk-menu /optie middelenbeheer/hardware.
+b De nieuwe kaart moet ingevuld zijn met de volgende gegevens.
+Objectid: PC314
+Soort: Pc werkstation
+Merk: Dell
+Kostenplaats: I&A
+Leverancier: Dell
+Aanschafdatum: Vandaag
+Garantie: 1 jaar
+Aankoopbedrag: € 700
+Restwaarde: € 70
+Plaatskoppeling: Configuratie
+Configuratie ID: C233
+Status: Operationeel
+© Stichting Praktijkleren TOPdesk 6 cursus niv. 2 9/20
+Door het invullen van het veld Configuratie ID met C233 wordt deze pc gekoppeld aan de 
+configuratie van Jan Velzeboer.
+Opdracht 16
+Voorbeeld resultaat na uitvoering opdracht
+© Stichting Praktijkleren TOPdesk 6 cursus niv. 2 10/20
+Opdracht 17
+Softwarekaart met onderstaande input koppelen aan Jan
+Objectid: ID S58
+Soort: Besturingssysteem
+Fabrikant Microsoft
+Pakket Windows 10
+Kostenplaats: I&A
+Koppel de kaart aan de configuratie C233 van Jan Velzeboer.
+Opdracht 18
+a Het aantal licenties staat op -1.
+b Dat betekent dat er te weinig licenties zijn.
+Opdracht 19
+Voorbeeld resultaat na uitvoering opdracht
+© Stichting Praktijkleren TOPdesk 6 cursus niv. 2 11/20
+Opdracht 20
+Configuratie C233 ook uitbreiden met bestaande middelen met behulp van de knop Koppelmagiër:
+Koppel de SAP ERP 6.0 aan de configuratie:
+Opdracht 21
+a Persoonskaart Marcel Teppema opzoeken/objecten/hardware/plotter opzoeken en de gegevens 
+overnemen voor het maken van de objectkaart.
+b Daarna de nieuwe objectkaart toevoegen aan de configuratie van Jan Velzeboer.
+© Stichting Praktijkleren TOPdesk 6 cursus niv. 2 12/20
+Opdracht 22/23
+Door leerlingen zelf uit te voeren voor ongeveer het volgende resultaat.
+Opdracht 24
+© Stichting Praktijkleren TOPdesk 6 cursus niv. 2 13/20
+Opdracht 25
+Voorbeeld resultaat na uitvoering opdracht
+Opdracht 26
+Voorbeeld resultaat na uitvoering opdracht
+© Stichting Praktijkleren TOPdesk 6 cursus niv. 2 14/20
+Opdracht 27
+Voorbeeld resultaat na uitvoering opdracht
+Opdracht 28
+Door de leerlingen zelf uit te voeren
+© Stichting Praktijkleren TOPdesk 6 cursus niv. 2 15/20
+Opdracht 29
+Voorbeeld resultaat na uitvoering opdracht.
+Opdracht 30
+Voorbeeld resultaat na uitvoering opdracht
+© Stichting Praktijkleren TOPdesk 6 cursus niv. 2 16/20
+Opdracht 31/32
+Door de leerlingen zelf uit te voeren
+Opdracht 33
+Voorbeeld resultaat na uitvoering opdracht
+© Stichting Praktijkleren TOPdesk 6 cursus niv. 2 17/20
+Opdracht 35
+Voorbeeld na uitvoering opdracht
+Opdracht 36
+Voorbeeld na uitvoering opdracht
+Opdracht 37
+Door de leerlingen zelf uit te voeren
+© Stichting Praktijkleren TOPdesk 6 cursus niv. 2 18/20
+Opdracht 38
+Voorbeeld na uitvoering opdracht
+Opdracht 39
+Voorbeeld na uitvoering opdracht
+© Stichting Praktijkleren TOPdesk 6 cursus niv. 2 19/20
+Software
+© Stichting Praktijkleren TOPdesk 6 cursus niv. 2 20/20
+Licenties software
